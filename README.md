@@ -1,6 +1,6 @@
 # weekly shopping list
 ___
-### Oscar Sanchez
+> Oscar Sanchez
 ___
 * shopping list
   * mead
