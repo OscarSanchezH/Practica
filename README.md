@@ -5,7 +5,7 @@ ___
 * shopping list
   * mead
   * vegetable
-* ead
+* mead
   * steak
   * chicken
 * vegetables
