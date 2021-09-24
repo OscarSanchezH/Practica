@@ -1,4 +1,4 @@
-# practice hello world project for development in asp.net
+# weekly shopping list
 ___
 ### Oscar Sanchez
 ___
